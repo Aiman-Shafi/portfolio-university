@@ -17,6 +17,7 @@ for (let num = 2; num <= 50; num++) {
 // 2 3 5 7 11 13 17 19 23 29 31 37 41 43 47
 
 // ***** Find Factorial of a Number ******
+
 let num = 5;
 let factorial = 1;
 let i = 1;
